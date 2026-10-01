@@ -25,4 +25,4 @@ Open the solution/project files in Visual Studio to explore the application sour
 
 ## Author
 
-**Lakshay Vaishnav** · [GitHub](https://github.com/Lakshayy2406)
+**Lakshay Sharma** · [GitHub](https://github.com/Lakshayy2406)
